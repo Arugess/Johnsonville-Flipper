@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//This finds the rigidbody attached to the hand, and allows it to move left or right.//
+
 public class HandScript : MonoBehaviour
 {
 
