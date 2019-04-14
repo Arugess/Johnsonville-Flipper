@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
+//This allows the player the player to return to the main menu after winning the game.//
+
 public class WinGameManager : MonoBehaviour
 {
     public Button restartButton;
