@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
+//This allows the player to return to the main menu when they lose.//
+
 public class LoseGameManager : MonoBehaviour
 {
     public Button resetButton;
