@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//This will load the win or lose scenes when a certain points are met.//
+
+
 public class LevelManager : MonoBehaviour
 {
 
