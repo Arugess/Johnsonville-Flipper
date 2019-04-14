@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//This will spawn a random condiment or hotdog from a random spawnpoint in the level.//
+
 public class FoodSpawn : MonoBehaviour
 {
     //[] this allows for lists to be made in the editor
