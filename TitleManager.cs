@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
+//This allows the player to enter the game from the main menu.//
+
 public class TitleManager : MonoBehaviour
 {
     public Button startButton;
