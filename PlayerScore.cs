@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//This increases the score of the player.//
+
 public class PlayerScore : MonoBehaviour
 {
     public static int moreScore = 0;
