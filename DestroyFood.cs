@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//This destroys the food when it touches the trigger.//
+
 public class DestroyFood : MonoBehaviour {
 
 	// Use this for initialization
