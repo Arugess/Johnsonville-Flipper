@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//This controls the animation of the hand to ensure the correct image is being displayed.//
+//It changes the image according to the current hotdog that has been built.//
+
 public class HotdogBuild : MonoBehaviour
 {
     //The hotdog game object and animator
